@@ -22,13 +22,13 @@ Election Results
 Total Votes: 369,711
 -------------------------
 
-##**Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
+## **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
 
-##**Which county had the largest number of votes?**
+## **Which county had the largest number of votes?**
 
 
 
-**##Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
+** ##Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
 
 Election Results
 -------------------------
