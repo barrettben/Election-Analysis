@@ -15,16 +15,16 @@ Deliverable 3: A written Analysis of the Election Audit (README.md)
 4. Percentage of votes each candidate won
 5. The winner of the election based on popular vote
 
-**##How many votes were cast in this congressional election?**
+##**How many votes were cast in this congressional election?**
 
 Election Results
 -------------------------
 Total Votes: 369,711
 -------------------------
 
-**##Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
+##**Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
 
-**Which county had the largest number of votes?
+##**Which county had the largest number of votes?**
 
 
 
