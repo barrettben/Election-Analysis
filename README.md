@@ -28,7 +28,7 @@ Total Votes: 369,711
 
 
 
-** ##Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
+## **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
 
 Election Results
 -------------------------
@@ -43,7 +43,7 @@ Raymon Anthony Doane: 3.1% (11,606)
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
-**##Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
+## **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
 
 Diana GeGette won the election with 73.7% of the vote, with a total voter count of 272,892 votes.  The closest candidate was Charles Casper Stockham at 23.0% of the vote with 85,213 total votes.  Trailing behind in third place was Raymon Anathony Doane at 3.1$ of the vote with only 11,606 votes
 
