@@ -17,7 +17,7 @@ Deliverable 3: A written Analysis of the Election Audit (README.md)
 4. Percentage of votes each candidate won
 5. The winner of the election based on popular vote
 
-##**How many votes were cast in this congressional election?**
+** ##How many votes were cast in this congressional election?**
 
 Election Results
 -------------------------
