@@ -4,7 +4,9 @@ Module 3 - Python
 **Overview of Election Audit**
 
 Deliverable 1: The Election Results Printed to the Command Line
+
 Deliverable 2: The Election Results Saved to a Text File
+
 Deliverable 3: A written Analysis of the Election Audit (README.md)
 
 **The data we need to retrieve**
